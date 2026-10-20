@@ -19,7 +19,7 @@ controls.
 
 ## More tools
 
-- [Luma](https://github.com/mateuspim/luma): keyboard-driven TUI for monitor brightness over DDC/CI.
+- [tela](https://github.com/mateuspim/tela): Android app for browsing Wallhaven and setting wallpapers, with no backend, accounts or tracking. [Download the APK](https://github.com/mateuspim/tela/releases/latest).
 - [scrcpy-connect](https://github.com/mateuspim/scrcpy-connect): standalone Python CLI for wireless ADB and scrcpy; OmaDroid is its Omarchy successor.
 - [homelab](https://github.com/mateuspim/homelab): Docker Compose and Proxmox notes for a media, tools, and Raspberry Pi home lab.
 
@@ -32,3 +32,4 @@ controls.
 
 - [pymdev.com](https://pymdev.com)
 - [LinkedIn](https://www.linkedin.com/in/mateuspimsantos/)
+- [X](https://x.com/mateus_pym)
