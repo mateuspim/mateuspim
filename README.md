@@ -2,24 +2,33 @@
 
 **Senior Agile Vibe Coder** · Linux desktop tools · automation · self-hosting
 
-I build practical tools for Linux desktops, automation, and self-hosted systems. Lately, I've been making Omarchy plugins that turn everyday hardware and workflow problems into simple controls.
+I build practical tools for Linux desktops, automation, and self-hosted
+systems. Lately that means the Oma* family: Omarchy plugins and terminal apps
+that turn everyday hardware, gaming, and workflow problems into simple
+controls.
 
-## Featured work
+## Oma* projects
 
 | Project | What it does |
 | --- | --- |
-| [OmaDroid](https://github.com/mateuspim/omadroid) | Connects Android devices to an Omarchy desktop for mirroring, audio, webcam, and device controls. |
-| [OmaReach](https://github.com/mateuspim/omareach) | Keeps windows and the Omarchy bar within the usable area of a monitor, with optional clock and system dashboard fills. |
-| [Volta for Omarchy](https://github.com/mateuspim/omarchy-volta) | Adds independent left and right audio controls and output selection to the Omarchy bar. |
-| [Mosaic for Omarchy](https://github.com/mateuspim/omarchy-mosaic) | Tiles web apps on Hyprland and keeps fullscreen video inside each tile. |
-| [Distrobox Gaming](https://github.com/mateuspim/distrobox-gaming) | Uses Ansible to build a reproducible Arch-based gaming and emulation container. |
-| [Aitrepreneur Docker stacks](https://github.com/mateuspim/aitrepreneur-docker) | Runs selected AI tools locally in Docker with pinned versions and persistent data. |
+| [OmaMods](https://github.com/mateuspim/omamods) | Terminal mod manager for Linux game libraries: finds Steam and Heroic games, stages Nexus Mods and AyakaMods downloads, and installs with per-file records so every mod can be reverted. |
+| [OmaDroid](https://github.com/mateuspim/omadroid) | Android on Omarchy: discover ADB devices, then mirror and control them with scrcpy from the bar, with audio and webcam sessions. |
+| [OmaReach](https://github.com/mateuspim/omareach) | Blacks out monitor edges you can't reach and keeps the bar and tiled windows in the rest; the edges can show a clock, the logo, or a btop-style dashboard. |
+| [Volta for Omarchy](https://github.com/mateuspim/omarchy-volta) | Independent left and right output volume and stereo balance on the Omarchy bar. |
+| [Mosaic for Omarchy](https://github.com/mateuspim/omarchy-mosaic) | Tiles web apps like Twitch, Kick, and YouTube on Hyprland, keeping each video's fullscreen inside its tile. |
 
-## More projects
+## More tools
 
-[Luma](https://github.com/mateuspim/luma) is a keyboard-driven monitor brightness TUI. [Volta](https://github.com/mateuspim/volta) is a standalone terminal audio controller; its Omarchy plugin is featured above.
+- [Luma](https://github.com/mateuspim/luma): keyboard-driven TUI for monitor brightness over DDC/CI.
+- [scrcpy-connect](https://github.com/mateuspim/scrcpy-connect): standalone Python CLI for wireless ADB and scrcpy; OmaDroid is its Omarchy successor.
+- [homelab](https://github.com/mateuspim/homelab): Docker Compose and Proxmox notes for a media, tools, and Raspberry Pi home lab.
+
+## Forks I maintain
+
+- [distrobox-gaming](https://github.com/mateuspim/distrobox-gaming), from akitaonrails: reproducible Arch-based gaming and emulation Distrobox built with Ansible.
+- [aitrepreneur-docker](https://github.com/mateuspim/aitrepreneur-docker), from akitaonrails: selected AI tools in Docker with pinned versions and persistent data.
 
 ## Find me
 
+- [pymdev.com](https://pymdev.com)
 - [LinkedIn](https://www.linkedin.com/in/mateuspimsantos/)
-- [GitHub repositories](https://github.com/mateuspim?tab=repositories)
