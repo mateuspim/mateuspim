@@ -22,7 +22,7 @@ workflow problems into simple controls.
 
 - [tela](https://github.com/mateuspim/tela): Android app for browsing Wallhaven and setting wallpapers, with no backend, accounts or tracking. [Download the APK](https://github.com/mateuspim/tela/releases/latest).
 - [scrcpy-connect](https://github.com/mateuspim/scrcpy-connect): standalone Python CLI for wireless ADB and scrcpy; OmaDroid is its Omarchy successor.
-- [homelab](https://github.com/mateuspim/homelab): Docker Compose and Proxmox notes for a media, tools, and Raspberry Pi home lab.
+- [homelab](https://github.com/mateuspim/homelab): two Proxmox nodes, one for the house's media, photos, files, passwords and git, one for AI agent and dev workspaces, reachable through Tailscale and backed up encrypted off-site.
 
 ## Forks I maintain
 
