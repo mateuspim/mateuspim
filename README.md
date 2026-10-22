@@ -1,11 +1,12 @@
 # Mateus Pim Santos
 
-**Senior Agile Vibe Coder** · Linux desktop tools · automation · self-hosting
+**Software Engineer · Backend & Platform** · Python · distributed systems · Linux
 
-I build practical tools for Linux desktops, automation, and self-hosted
-systems. Lately that means the Oma* family: Omarchy plugins and terminal apps
-that turn everyday hardware, gaming, and workflow problems into simple
-controls.
+By day I build backend systems in Python: APIs, queues and multi-tenant
+platforms on PostgreSQL and Kubernetes. After hours I build practical tools for
+Linux desktops and self-hosted systems. Lately that means the Oma* family:
+Omarchy plugins and terminal apps that turn everyday hardware, gaming, and
+workflow problems into simple controls.
 
 ## Oma* projects
 
@@ -30,6 +31,6 @@ controls.
 
 ## Find me
 
-- [pymdev.com](https://pymdev.com)
+- [pymdev.com](https://pymdev.com), or `curl pymdev.com` from a terminal
 - [LinkedIn](https://www.linkedin.com/in/mateuspimsantos/)
 - [X](https://x.com/mateus_pym)
